@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dealiquotplutar00siefgoog_0007.png"; bbox 0 0 2754 4656; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 57 1721 1090 1821">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 57 1721 1090 1821">
+     <span class='ocr_line' id='line_1_1' title="bbox 57 1721 1090 1821; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 57 1725 107 1820; x_wconf 73' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_2' title='bbox 141 1724 374 1821; x_wconf 79' lang='lat' dir='ltr'>ALIQVOT</span> <span class='ocrx_word' id='word_1_3' title='bbox 407 1723 717 1820; x_wconf 83' lang='lat' dir='ltr'><strong>PLVTARCHI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 750 1721 1090 1820; x_wconf 77' lang='lat' dir='ltr'><strong>SCRIPTORVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 57 1988 1146 2087">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 57 1988 1146 2087">
+     <span class='ocr_line' id='line_1_2' title="bbox 57 1988 1146 2087; baseline -0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 57 1991 273 2086; x_wconf 62' lang='lat' dir='ltr'>{ALIVM</span> <span class='ocrx_word' id='word_1_6' title='bbox 307 1989 702 2087; x_wconf 77' lang='lat' dir='ltr'><strong>OOMPOSITIONE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 736 1988 912 2086; x_wconf 76' lang='lat' dir='ltr'><strong>ATQVE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 944 1988 1146 2085; x_wconf 82' lang='lat' dir='ltr'><strong>INDOLE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 303 2548 824 2617">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 303 2548 824 2617">
+     <span class='ocr_line' id='line_1_3' title="bbox 303 2548 824 2617; baseline -0.006 -1"><span class='ocrx_word' id='word_1_9' title='bbox 303 2550 569 2617; x_wconf 83' lang='lat' dir='ltr'><strong>GEORGIVS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 598 2548 824 2615; x_wconf 81' lang='lat' dir='ltr'><strong>SIEFERT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1382 4656">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1382 4656">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1382 4656; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1382 4656; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
